@@ -1,0 +1,15 @@
+{
+    "name": "ffflabs/windwalker_demo",
+    "description": "Demo Windwalker",
+    "type": "project",
+    "require": {
+        "windwalker/edge": "^3.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Felipe Figueroa",
+            "email": "amenadiel@gmail.com"
+        }
+    ]
+}

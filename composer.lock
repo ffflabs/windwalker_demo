@@ -1,0 +1,65 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "110c48aa5e0a43c7e50848b0f5d2411b",
+    "packages": [
+        {
+            "name": "windwalker/edge",
+            "version": "3.3.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ventoviro/windwalker-edge.git",
+                "reference": "c1895ed43e5f58d9a3aa045d61eb214d24b64e1a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ventoviro/windwalker-edge/zipball/c1895ed43e5f58d9a3aa045d61eb214d24b64e1a",
+                "reference": "c1895ed43e5f58d9a3aa045d61eb214d24b64e1a",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5.9"
+            },
+            "require-dev": {
+                "windwalker/dom": "~3.0",
+                "windwalker/test": "~3.0"
+            },
+            "type": "windwalker-package",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "3.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Windwalker\\Edge\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL-2.0-or-later"
+            ],
+            "description": "Windwalker Edge package, a blade compatible template engine.",
+            "homepage": "https://github.com/ventoviro/windwalker-edge",
+            "keywords": [
+                "edge",
+                "engine",
+                "framework",
+                "template",
+                "windwalker"
+            ],
+            "time": "2018-04-02T13:52:10+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
